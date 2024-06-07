@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1623262127 source:c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 6 archivos mio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pila.h"
+
+1490112217 c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 6 archivos mio\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 6 archivos mio\pila.c
+	"pila.h"
+
+1490112217 source:c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 7 archivos mio\pila.c
+	"pila.h"
+
+1490112217 c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 7 archivos mio\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1654267833 source:c:\users\carol\documents\tsp\tsp program 1\9na uni - archivos\tp 7 archivos mio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pila.h"
+
+1490112217 source:c:\users\carol\documents\tsp\tsp program 1\un 5. archivos\tp 7 archivos\pila.c
+	"pila.h"
+
+1490112217 c:\users\carol\documents\tsp\tsp program 1\un 5. archivos\tp 7 archivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1709827768 source:c:\users\carol\documents\tsp\tsp program 1\un 5. archivos\tp 7 archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pila.h"
+	<time.h>
+
+1490112217 source:d:\lab 1 a 3 y nivel\tsp program 1\un 5. archivos\tp 7 archivos\pila.c
+	"pila.h"
+
+1490112217 d:\lab 1 a 3 y nivel\tsp program 1\un 5. archivos\tp 7 archivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1715866813 source:d:\lab 1 a 3 y nivel\tsp program 1\un 5. archivos\tp 7 archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pila.h"
+	<time.h>
+
